@@ -15,4 +15,4 @@ Here Is what it looks like!
 
 Here is a link to the Deployed Application:
 
-https://codystepp1006.github.io/ls-todo-list/gi
+https://codystepp1006.github.io/ls-todo-list/
